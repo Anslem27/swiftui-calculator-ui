@@ -76,7 +76,7 @@ struct ContentView: View {
         return (UIScreen.main.bounds.width-(5*12))/4
     }
     
-    // not complement. Clearly was too lazy
+    // not complete
     func tapButton(button:CalcButtons){
         
         switch button{
